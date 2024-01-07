@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.1815d0dc.css",
+    "main.css": "/portfolio/static/css/main.a3d80377.css",
     "main.js": "/portfolio/static/js/main.3a13f900.js",
     "static/media/pfp.jpg": "/portfolio/static/media/pfp.4067637828723594d889.jpg",
     "static/media/erik-resume.pdf": "/portfolio/static/media/erik-resume.07a786094dce52b73a59.pdf",
     "index.html": "/portfolio/index.html",
-    "main.1815d0dc.css.map": "/portfolio/static/css/main.1815d0dc.css.map",
+    "main.a3d80377.css.map": "/portfolio/static/css/main.a3d80377.css.map",
     "main.3a13f900.js.map": "/portfolio/static/js/main.3a13f900.js.map"
   },
   "entrypoints": [
-    "static/css/main.1815d0dc.css",
+    "static/css/main.a3d80377.css",
     "static/js/main.3a13f900.js"
   ]
 }
